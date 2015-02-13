@@ -24,3 +24,6 @@ while others, like Google Docs, treat each file separately?
 Git allows saving of multiple files because in most applications files are related to each other
 and need to reference parts of code in differenct files. CakePHP, HTML and CSS are examples of
 programming languages that rely on other files to make the code function as a whole.
+
+How can you use the commands git log and git diff to view the history of files?
+Using git log pulles all the committs that were done for the selected application. Using git diff allows me to see the differences between the selected committs. 
